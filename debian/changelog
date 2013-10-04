@@ -1,0 +1,25 @@
+ros-hydro-husky-navigation (0.0.4-0raring) raring; urgency=high
+
+  * restructuring launch file locations, cleaning out redundant 'laser' folder
+  * adding dependencies to the package and launch file test in CMake
+
+ -- Prasenjit Mukherjee <pmukherj@clearpathrobotics.com>  Fri, 04 Oct 2013 04:00:00 -0000
+
+ros-hydro-husky-navigation (0.0.3-0raring) raring; urgency=high
+
+  * Install the right things.
+  * Remove urdf folder.
+
+ -- Prasenjit Mukherjee <pmukherj@clearpathrobotics.com>  Fri, 04 Oct 2013 04:00:00 -0000
+
+ros-hydro-husky-navigation (0.0.2-0raring) raring; urgency=high
+
+  * cleanup of odom_navigation file and adding tolerance parameters
+  * removed legacy outdoor navigation demo
+  * moving param files for odometry navigation around and changed the launchfile to reflect change
+  * first commit of move_base launch and configuration files in the odom frame
+  * first commit of catkinized version
+
+ -- Prasenjit Mukherjee <pmukherj@clearpathrobotics.com>  Fri, 04 Oct 2013 04:00:00 -0000
+
+
