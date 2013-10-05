@@ -1,3 +1,22 @@
+## husky_navigation - 0.0.6-2
+
+User `administrator@husky-vm` released the packages in the `husky_navigation` repository by running `/home/administrator/husky_ws/src/bloom_easy/scripts/release` on `Sat, 05 Oct 2013 17:04:43 -0000`
+
+The `husky_navigation` package was released.
+
+Version of package(s) in repository `husky_navigation`:
+- rosdistro version: `0.0.5-0`
+- old version: `0.0.6-1`
+- new version: `0.0.6-2`
+
+Versions of tools used:
+- bloom version: `0.4.4`
+- catkin_pkg version: `0.1.19`
+- rosdep version: `0.10.21`
+- rosdistro version: `0.2.14`
+- vcstools version: `0.1.31`
+
+
 ## husky_navigation - 0.0.6-1
 
 User `administrator@husky-vm` released the packages in the `husky_navigation` repository by running `/home/administrator/husky_ws/src/bloom_easy/scripts/release` on `Sat, 05 Oct 2013 16:59:28 -0000`
