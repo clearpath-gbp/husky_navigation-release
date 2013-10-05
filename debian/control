@@ -1,0 +1,12 @@
+Source: ros-hydro-husky-navigation
+Section: misc
+Priority: extra
+Maintainer: Prasenjit Mukherjee <pmukherj@clearpathrobotics.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin, ros-hydro-roslaunch
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-husky-navigation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-amcl, ros-hydro-gmapping, ros-hydro-map-server, ros-hydro-move-base, ros-hydro-robot-state-publisher, ros-hydro-urdf, ros-hydro-xacro
+Description: Launch files and code for autonomous navigation of the Husky A200
