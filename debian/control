@@ -1,0 +1,12 @@
+Source: ros-indigo-husky-navigation
+Section: misc
+Priority: extra
+Maintainer: Paul Bovbel <pbovbel@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-roslaunch
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-husky-navigation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-amcl, ros-indigo-frontier-exploration, ros-indigo-gmapping, ros-indigo-map-server, ros-indigo-move-base, ros-indigo-robot-state-publisher, ros-indigo-urdf, ros-indigo-xacro
+Description: Launch files and code for autonomous navigation of the Clearpath Husky A200
