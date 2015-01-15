@@ -1,3 +1,24 @@
+## husky_navigation (indigo) - 0.1.0-0
+
+The packages in the `husky_navigation` repository were released into the `indigo` distro by running `/usr/bin/bloom-release husky_navigation --rosdistro indigo --track indigo --new-track` on `Thu, 15 Jan 2015 17:15:58 -0000`
+
+The `husky_navigation` package was released.
+
+Version of package(s) in repository `husky_navigation`:
+- upstream repository: https://github.com/husky/husky_navigation.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.16`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.36`
+
+
 ## husky_navigation - 0.0.6-3
 
 User `administrator@husky-vm` released the packages in the `husky_navigation` repository by running `/home/administrator/husky_ws/src/bloom_easy/scripts/release` on `Sat, 05 Oct 2013 17:05:59 -0000`
