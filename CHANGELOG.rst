@@ -2,6 +2,9 @@
 Changelog for package husky_navigation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2015-02-17)
+------------------
+
 0.1.1 (2015-01-30)
 ------------------
 * Update web and maintainers
